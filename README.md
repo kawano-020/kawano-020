@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!-- <img src="https://komarev.com/ghpvc/?username=kawano-020"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=kawano-020&layout=compact&count_private=true&show_icons=true&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawano-020&layout=compact&count_private=true&show_icons=true&theme=github_dark">
 
 <!-- - 🔭 I’m currently working on ...
