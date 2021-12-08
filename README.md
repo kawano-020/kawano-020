@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I Like Sushi 🍣
+### I like sushi 🍣
 
 <!-- <img src="https://komarev.com/ghpvc/?username=kawano-020"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=kawano-020&layout=compact&count_private=true&show_icons=true&theme=github_dark"> -->
