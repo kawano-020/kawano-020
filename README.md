@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I like sushi 🍣
 
-## 📚 [WorkSpace](https://kawano-020.github.io/workspace/) ⚙️
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawano-020&langs_count=10&layout=compact&count_private=true&show_icons=true&theme=github_dark)
 
 <!-- - 🔭 I’m currently working on ...
